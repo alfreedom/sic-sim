@@ -1,0 +1,14 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\bin\Debug\sic-simulator.exe.config
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\bin\Debug\sic-simulator.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\bin\Debug\sic-simulator.pdb
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\obj\Debug\sic-simulator.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\obj\Debug\sic_simulator.Form1.resources
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\obj\Debug\sic_simulator.Properties.Resources.resources
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\obj\Debug\sic-simulator.csproj.GenerateResource.Cache
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\obj\Debug\sic-simulator.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\obj\Debug\sic-simulator.pdb
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\bin\Debug\FastColoredTextBox.dll
+c:\users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\bin\Debug\FastColoredTextBox.xml
+C:\Users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\alfredo\documents\visual studio 2015\Projects\sic-simulator\sic-simulator\obj\Debug\sic_simulator.HexViewer.resources
+C:\Users\alfredo\Documents\Visual Studio 2015\Projects\sic-simulator\sic-simulator\obj\Debug\sic_simulator.ObjViewer.resources
